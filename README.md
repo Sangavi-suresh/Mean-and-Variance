@@ -1,5 +1,4 @@
-EX.NO:01                  
-DATE:
+EX.NO:01                  DATE:
 #  Mean and variance of a discrete  distribution
 
 
