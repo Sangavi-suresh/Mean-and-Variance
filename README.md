@@ -1,3 +1,5 @@
+EX.NO:01                  
+DATE:
 #  Mean and variance of a discrete  distribution
 
 
